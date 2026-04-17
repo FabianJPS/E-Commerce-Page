@@ -224,6 +224,7 @@ button:active {
 .row {
     width: 100%;
     max-width: 1200px;
+    margin: auto;
 }
 
 
@@ -386,6 +387,7 @@ FOOTER
 
 footer {
     background-color: #242424;
+
 }
 
 .footer__logo {
