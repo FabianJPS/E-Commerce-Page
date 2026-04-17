@@ -449,7 +449,7 @@ footer {
     margin-bottom: 24px;
    }
 
-   .hightlight:not(:last-child) {
+   .highlight:not(:last-child) {
     margin-bottom: 24px;
     }
 }
